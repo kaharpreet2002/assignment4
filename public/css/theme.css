@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body, html {
+    background: #FFAEBC; /* fallback color */
+    background: linear-gradient( to bottom, #FFAEBC, #A0E7E5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    font-family: 'Quicksand', sans-serif;
+}
